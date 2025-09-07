@@ -33,7 +33,7 @@ Check it out here: [FIFO Repository](https://github.com/Ujjwal2810/fifo-verilog)
 ##  Skills & Interests
 
 - **HDL & FPGA Design**: Verilog
-- **Digital Logic & Computer Architecture**: RISC-V, pipelining, hazard detection
+- **Digital Logic & Computer Architecture**: RISC-V, pipelining
 - **Simulation & Verification**: Testbench development, exhaustive module testing
 - **Hardware Systems**: Embedded controllers and digital systems
 
