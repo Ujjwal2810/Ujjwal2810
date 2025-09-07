@@ -18,14 +18,15 @@ A Verilog-based enhanced automatic washing machine controller featuring:
 
 Explore it here: [WashingMachine Repository](https://github.com/Ujjwal2810/WashingMachine)
 
-### 2. **RISC-V-Processor**
-Building a 5-stage pipelined **RISC-V RV32I processor**:
-- Forwarding to minimize hazards  
-- Hazard detection mechanisms  
-- Pipeline registers for efficient instruction execution  
-- Ideal as an educational resource for computer architecture studies  
+### 2. **FIFO**
+A simple yet effective **First-In First-Out (FIFO) buffer** in Verilog:
+- Parameterized depth and width (default: 8x8)  
+- Implements a circular buffer design  
+- Full and empty status flags  
+- Handles overflow and underflow gracefully  
+- Verified with a detailed testbench and GTKWave simulations  
 
-Check it out here: [RISC-V-Processor Repository](https://github.com/Ujjwal2810/RISC-V-Processor)
+Check it out here: [FIFO Repository](https://github.com/Ujjwal2810/fifo-verilog)
 
 ---
 
